@@ -2,14 +2,8 @@
   "name": "vs_studio",
   "version": "1.0.0",
   "description": "to learn automation testing",
-  "main": "nightwatch.js",
-  "scripts": {
-    "test": "nightwatch"
-  },
-  "author": "Michal",
-  "license": "ISC",
   "dependencies": {
-    "nightwatch": "^1.2.4"
+    "nightwatch": "^1.4.3"
   },
   "devDependencies": {
     "chromedriver": "^86.0.0",
