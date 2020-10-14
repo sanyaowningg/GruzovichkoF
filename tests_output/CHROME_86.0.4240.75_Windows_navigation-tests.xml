@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="navigation-tests"
+    errors="0" failures="1" hostname="" id="" package="navigation-tests" skipped="0"
+    tests="1" time="10.11" timestamp="">
+  
+    <testcase name="Navigating to &#39;С нами выгоднее&#39;" classname="navigation-tests" time="10.11" assertions="2">
+
+      <failure message="Testing if the URL is &#39;https://gruzovichkof.ru/akcii/s-nami-vigodnee&#39; in 5000ms - expected &#34;is &#39;https://gruzovichkof.ru/akcii/s-nami-vigodnee&#39;&#34; but got: &#34;https://gruzovichkof.ru/akcii/s-nami-vigonee&#34; (5139ms)">    at Object.Navigating to &#39;С нами выгоднее&#39; (C:\Users\Imba\Documents\TZgruzovichkoF\tests\pages\akcii\smoke\navigation-tests.js:9:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
